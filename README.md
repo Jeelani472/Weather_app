@@ -2,7 +2,7 @@
 
 A sleek and responsive weather app built with **Next.js**, **React**, and **Tailwind CSS**. Enter any city to get real-time weather information including temperature, humidity, wind speed, and more — with support for both Celsius and Fahrenheit units.
 
-Here is the Demo Link->
+Here is the Demo Link->https://weatheerly.netlify.app/
 
 ## 🚀 Features
 
@@ -20,6 +20,4 @@ Here is the Demo Link->
 - **ShadCN/UI**
 - **Lucide React**
 - **OpenWeatherMap API**
-
-## 🧩 Folder Structure
 
